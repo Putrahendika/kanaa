@@ -44,25 +44,25 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = '-'
-global.sgh = '-'
-global.sgc = '-'
-global.sdc = "-"
-global.snh = '-'
+global.sig = 'https://www.instagram.com/'
+global.sgh = 'https://github.com/'
+global.sgc = 'https://chat.whatsapp.com/'
+global.sdc = " "
+global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
-global.psaweria = '-'
+global.pdana = ' '
+global.povo = ' '
+global.pgopay = ' '
+global.ppulsa = ' '
+global.ppulsa2 = ' '
+global.psaweria = ' '
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285351046768'
 global.nomorown = '6283824035969'
 global.namebot = 'Kanna BOT'
-global.nameown = 'putra-store'
+global.nameown = 'putra-storw'
 
 
 /*============== STAFF ==============*/
